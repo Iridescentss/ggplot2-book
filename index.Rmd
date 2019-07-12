@@ -19,3 +19,4 @@ description: "Master ggplot2 and the rich grammar that underlies it."
 This is the online version of work-in-progress 3rd edition of "ggplot2: elegant graphics for data analysis"
 
 `r if (knitr::is_latex_output()) '-->'`
+#ThisisLxmia
